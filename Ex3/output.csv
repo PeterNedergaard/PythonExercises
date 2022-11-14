@@ -1,0 +1,11 @@
+stud_name;course_name;teacher;gender;etcs;classroom;grade;img_url
+Kristian;Comp.Sci.;Luna;Male;33;1a;9;Image: 0
+Kristian;Comp.Sci.;Luna;Male;29;2a;6;Image: 0
+Ahmed;Comp.Sci.;Line;Male;40;2a;4;Image: 1
+Ahmed;Biology;Svend;Male;38;2b;2;Image: 1
+Kamilla;Math;Line;Female;33;1a;10;Image: 2
+Kamilla;English;Luna;Female;27;2a;1;Image: 2
+Rasmus;History;Line;Male;24;1c;10;Image: 3
+Rasmus;History;Lotte;Male;31;1a;8;Image: 3
+Sarah;Comp.Sci.;Lotte;Female;20;1c;3;Image: 4
+Sarah;English;Lotte;Female;28;1a;0;Image: 4

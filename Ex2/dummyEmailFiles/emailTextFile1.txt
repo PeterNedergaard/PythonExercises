@@ -1,0 +1,4 @@
+This line does not contain an email
+This line contains an email: kurt@gmail.com
+This line contains an email: svend@hotmail.com
+This line does not contain an email
